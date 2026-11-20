@@ -1,0 +1,9 @@
+BOT_TRADER_SWING_MULTI V4.5.0
+
+Base: V4.4.1
+UI: 3 tabs (Overview / Money Flow Footprint / Strategy)
+Core analysis modules retained from V4.4.1
+
+See CHANGELOG_V4.5.0.md, USER_GUIDE_V4.5.0.md, QA_REPORT_V4.5.0.md
+
+V4.5.1: Trap Detection 2.0 — multi-session Bull/Bear Trap confirmation, breakout follow-through, and Tab 2 event report.
